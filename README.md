@@ -1,6 +1,6 @@
 # Proyecto de Adivinanza de Números
 
-Este es un proyecto en Java donde se adivina un número.
+Este es un proyecto en Java donde jugamos a adivinar un número.
 
 ## URL del proyecto
 
