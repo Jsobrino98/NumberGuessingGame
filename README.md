@@ -1,5 +1,9 @@
-# Number Guessing Game
+# Proyecto de Adivinanza de Números
 
-Este es un juego de adivinanza de números desarrollado en Java.
+Este es un proyecto en Java donde se adivina un número.
 
-**URL del Proyecto:** (https://github.com/Jsobrino98/NumberGuessingGame)
+## URL del proyecto
+
+Puedes encontrar el proyecto en GitHub en la siguiente URL:
+
+[https://github.com/jsobrino98/NumberGuessingGame](https://github.com/jsobrino98/NumberGuessingGame)
